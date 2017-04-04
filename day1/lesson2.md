@@ -43,4 +43,4 @@ This will remove a folder. Ex "rm -rf project1"
 
 ## Configure Terminal
 - Install a theme
-- Increase font size to 14pt
+- Increase font size to 14pt - CMD + - will change the font 
