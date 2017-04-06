@@ -1,0 +1,22 @@
+h1{ 
+	color: red;
+/* here is how you comment */
+}
+h1 {	
+}
+.DC {
+	color: green;
+/* in class you open it with just a dot and the class name */
+}
+#one {
+	color: orange;
+/* IDs are open with just the ID name and the # */	
+}
+#pink {
+	color: black;
+}
+
+#Berhan {
+	text-align: center; 
+	margin: : 0 auto;
+}
