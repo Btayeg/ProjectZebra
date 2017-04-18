@@ -1,0 +1,59 @@
+#mainheader {
+	background: lightgray
+	border: 100px solid grey;
+}
+
+nav{
+	display: block;
+	float: right;
+}
+
+/* #container {
+	background-color: lightgoldenrodyellow;
+	/*position: relative; */
+	padding: 0 0 0 0;
+	margin-top: 50px;
+
+/* postion - two types - absolute and fixed 
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	border: 3px solid lightcoral; */
+}
+
+nav{
+	font-size: 30px;
+	padding: 20px 30px;
+	color: green;
+}
+/*.Tinbit{
+	position: absolute;
+} */
+h1{
+	color: black;
+	font-size: 12px;
+	margin: 0px
+}
+
+.title {
+	font: helvetica;
+	color: red;
+	text-align: center;
+}
+
+.content{
+	font: geneva;
+	color: red;
+}
+
+/*p{
+	float: left;
+}
+*/
+
+/* img{
+	max-width: 200px;
+	float: left;
+}  */
+
