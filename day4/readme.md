@@ -1,20 +1,13 @@
-# Day4 
-## Javascript Intro
+# More CSS
 
-- What is... Javascript?
-- ES5 vs ES6 (Javascript versions)
-- what is jQuery (Javascript Library)
-- what is React or Angular (Javascript Framework)
-- Data types
-    + Strings 
-    + Numbers
-    + Arrays
-    + Booleans
-    + Objects
-- Variables
-- String Concatenation
-- The console, javascript execution order & hoisting, comments
-- Functions
-- repl.it >> https://repl.it/languages/javascript
-- Code Academy >> https://www.codecademy.com/learn/learn-javascript
-- Challenges >> https://coderbyte.com/challenges
+- Coloring (names vs. hex vs. rgba)
+- Sizing
+- Positioning 
+
+- Make a Mondrian with this tutorial: https://googlecreativelab.github.io/coder-projects/projects/mondrian/
+    + divs
+    + Height + Width
+    + float
+    + colors
+
+![mondrian](../images/mondrian_final.jpg)

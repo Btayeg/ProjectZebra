@@ -38,11 +38,15 @@ You will be building a simple web page using HTML and CSS. We will do our stylin
 ## Bonus
 Type out your answers in a new file called "answers.md"
 1. What is the difference between a CSS class and id?
+<<<<<<< HEAD
 - Class applies to all with the class distinction and ID applied to a specific one 
+=======
+>>>>>>> c9c29ac7d99327eec1222f6deb5a1f7d63129ccf
 
 2. Which has a larger font size: h2 or h4?
 
 3. How would you make the div border appear dashed instead of solid?
+<<<<<<< HEAD
 - dashed 
 
 4. How would you comment out a line of CSS? What about HTML?
@@ -50,6 +54,11 @@ Type out your answers in a new file called "answers.md"
 */ -- */
 <--/ -->
 
+=======
+
+4. How would you comment out a line of CSS? What about HTML?
+
+>>>>>>> c9c29ac7d99327eec1222f6deb5a1f7d63129ccf
 5. Explain the differences between inline and block elements.
 
 6. Explain the CSS property 'clear' and why it is useful when using the 'float' property.

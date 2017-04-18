@@ -1,7 +1,11 @@
 # About Me with HTML
 
 ## Introduction
+<<<<<<< HEAD
 The purpose of this exercise is to practice some basic HTML and then successfully push it all up to _**your private repo**_.
+=======
+The purpose of this exercise is to practice some more basic HTML + CSS.
+>>>>>>> c9c29ac7d99327eec1222f6deb5a1f7d63129ccf
 
 ## Setup
 Create a directory called `aboutme`, `cd` into `aboutme` and then complete the following:
